@@ -10,7 +10,7 @@
     "platforms": [
       "android"
     ],
-    "githubUrl": "",
+    "githubUrl": "https://github.com/shayan02/ufirstadmin",
     "icon": "./assets/images/logo.png",
     "description": "A react native woocommerce admin app.",
     "android": {
@@ -20,6 +20,6 @@
         "CAMERA"
       ]
     },
-    "owner": ""
+    "owner": "shayan02"
   }
 }
